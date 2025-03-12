@@ -1,3 +1,5 @@
+
+//Using FIFO
 #include <stdio.h>
 
 int main() {
